@@ -1,6 +1,6 @@
 <template>
     <div>
-        Home Page
+        Home Page 123
     </div>
 </template>
 
